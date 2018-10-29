@@ -1,3 +1,4 @@
+
 import queue  
 from collections import namedtuple
 Edge = namedtuple('Edge', ['vertex', 'weight'])
